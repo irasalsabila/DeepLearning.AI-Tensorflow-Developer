@@ -68,4 +68,3 @@
  # Disclamer
 The files uploaded here are only for reference. 
 All course Notebooks can be found [here](https://github.com/lmoroney/dlaicourse).
-
