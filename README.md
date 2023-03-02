@@ -22,10 +22,48 @@
  - Process text, represent sentences as vectors, and train a model to create original poetry!
 
 ### Courses:
-1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning]()  
-2. [Convolutional Neural Networks in TensorFlow]()  
-3. [Natural Language Processing in TensorFlow]()  
-4. [Sequences, Time Series and Prediction]()  
+1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/tree/main/01%20-%20Intoruction%20to%20TensorFlow%20for%20AI%2C%20ML%2C%20DL)  
+2. [Convolutional Neural Networks in TensorFlow](https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/tree/main/02%20-%20CNN%20in%20TensorFlow)  
+3. [Natural Language Processing in TensorFlow](https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/tree/main/03%20-%20NLP%20in%20TensorFlow)  
+4. [Sequences, Time Series and Prediction](https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/tree/main/04%20-%20Sequences%2C%20Time%20Series%2C%20and%20Prediction)  
+
+
+### Certificates:
+0. [TensorFlow Developer Professional Certificate]
+   <summary>Show Certificate</summary><p>
+
+      [<img src="https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/blob/main/misc/00%20-%20Coursera%20W5LPNTD5B8GN.jpg" />](https://coursera.org/verify/W5LPNTD5B8GN)
+
+  </p></details>
+
+1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning]
+   <summary>Show Certificate</summary><p>
+
+      [<img src="https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/blob/main/misc/01%20-%20Coursera%20B5SYL2DHXFVN.jpg" />](https://coursera.org/verify/B5SYL2DHXFVN)
+
+  </p></details>
+
+2. [Convolutional Neural Networks in TensorFlow]
+   <summary>Show Certificate</summary><p>
+
+      [<img src="https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/blob/main/misc/02%20-%20Coursera%20ABCQAC2JL62D.jpg" />](https://coursera.org/verify/ABCQAC2JL62D)
+
+  </p></details>
+
+3. [Natural Language Processing in TensorFlow]  
+   <summary>Show Certificate</summary><p>
+
+      [<img src="https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/blob/main/misc/03%20-%20Coursera%20T8SG8HEKGMLW.jpg" />](https://coursera.org/verify/T8SG8HEKGMLW)
+
+  </p></details>
+
+4. [Sequences, Time Series and Prediction]
+   <summary>Show Certificate</summary><p>
+
+      [<img src="https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/blob/main/misc/04%20-%20Coursera%20CCZX6Z547P5R.jpg" />](https://coursera.org/verify/CCZX6Z547P5R)
+
+  </p></details>
+
 
  # Disclamer
 The files uploaded here are only for reference. 
