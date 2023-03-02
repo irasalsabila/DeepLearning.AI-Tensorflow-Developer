@@ -32,35 +32,35 @@
 0. TensorFlow Developer Professional Certificate
     <details>  <summary>Show Certificate</summary><p> 
       
-    [<img src="https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/blob/main/misc/00%20-%20Coursera%20W5LPNTD5B8GN.jpg" />](https://coursera.org/verify/W5LPNTD5B8GN)
+    [<img src="https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/blob/main/misc/00%20-%20Coursera%20W5LPNTD5B8GN.jpg" />](https://www.coursera.org/account/accomplishments/certificate/W5LPNTD5B8GN)
 
     </p></details>
 
 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
     <details> <summary>Show Certificate</summary><p> 
       
-    [<img src="https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/blob/main/misc/01%20-%20Coursera%20B5SYL2DHXFVN.jpg" />](https://coursera.org/verify/B5SYL2DHXFVN)
+    [<img src="https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/blob/main/misc/01%20-%20Coursera%20B5SYL2DHXFVN.jpg" />](https://www.coursera.org/account/accomplishments/certificate/B5SYL2DHXFVN)
       
     </p></details>
 
 2. Convolutional Neural Networks in TensorFlow
     <details> <summary>Show Certificate</summary><p> 
       
-    [<img src="https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/blob/main/misc/02%20-%20Coursera%20ABCQAC2JL62D.jpg" />](https://coursera.org/verify/ABCQAC2JL62D)
+    [<img src="https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/blob/main/misc/02%20-%20Coursera%20ABCQAC2JL62D.jpg" />](https://www.coursera.org/account/accomplishments/certificate/ABCQAC2JL62D)
       
     </p></details>
 
 3. Natural Language Processing in TensorFlow
     <details> <summary>Show Certificate</summary><p> 
       
-    [<img src="https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/blob/main/misc/03%20-%20Coursera%20T8SG8HEKGMLW.jpg" />](https://coursera.org/verify/T8SG8HEKGMLW)
+    [<img src="https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/blob/main/misc/03%20-%20Coursera%20T8SG8HEKGMLW.jpg" />](https://www.coursera.org/account/accomplishments/certificate/T8SG8HEKGMLW)
       
     </p></details>
 
 4. Sequences, Time Series and Prediction
     <details> <summary>Show Certificate</summary><p> 
       
-    [<img src="https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/blob/main/misc/04%20-%20Coursera%20CCZX6Z547P5R.jpg" />](https://coursera.org/verify/CCZX6Z547P5R)
+    [<img src="https://github.com/irasalsabila/DeepLearning.AI-Tensorflow-Developer/blob/main/misc/04%20-%20Coursera%20CCZX6Z547P5R.jpg" />](https://www.coursera.org/account/accomplishments/certificate/CCZX6Z547P5R)
       
     </p></details>
 
